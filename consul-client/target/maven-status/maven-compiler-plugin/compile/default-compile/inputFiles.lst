@@ -1,0 +1,6 @@
+/home/fsrcodefsr/Desktop/Spring Apps Infrastructure/consul/consul-client/src/main/java/com/example/consul_client/ConsulClientApplication.java
+/home/fsrcodefsr/Desktop/Spring Apps Infrastructure/consul/consul-client/src/main/java/com/example/consul_client/OrganizationService.java
+/home/fsrcodefsr/Desktop/Spring Apps Infrastructure/consul/consul-client/src/main/java/com/example/consul_client/config/RestTemplateConfig.java
+/home/fsrcodefsr/Desktop/Spring Apps Infrastructure/consul/consul-client/src/main/java/com/example/consul_client/controller/ServicesController.java
+/home/fsrcodefsr/Desktop/Spring Apps Infrastructure/consul/consul-client/src/main/java/com/example/consul_client/model/OrganizationInfo.java
+/home/fsrcodefsr/Desktop/Spring Apps Infrastructure/consul/consul-client/src/main/java/com/example/consul_client/model/ServicesInfo.java

@@ -1,0 +1,6 @@
+com/example/consul_client/OrganizationService.class
+com/example/consul_client/config/RestTemplateConfig.class
+com/example/consul_client/ConsulClientApplication.class
+com/example/consul_client/model/OrganizationInfo.class
+com/example/consul_client/controller/ServicesController.class
+com/example/consul_client/model/ServicesInfo.class
