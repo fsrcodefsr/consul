@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  consul_client:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: consul-client:1.0
+    container_name: consul-client
+    ports:
+      - "8091:8091"
+    environment:
+      - JAVA_OPTS=-Xms64m -Xmx256m
+    networks:
+      - my-network
+
+networks:
+  my-network:
+    external: true
